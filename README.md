@@ -9,7 +9,7 @@ Its core purpose is comparatively analyzing its own computational speed vs PyTor
 
 # Project Results
 
-##zLearn time: 0.01182103157043457
-##PyTorch Time: 0.001827239990234375
+zLearn time: 0.01182103157043457
+PyTorch Time: 0.001827239990234375
 
 Really cool! zLearn is about 10x slower than PyTorch, showing how optimized PyTorch is!
